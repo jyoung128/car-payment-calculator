@@ -1,0 +1,10 @@
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\bin\Debug\MyFirstWindowsForm.exe.config
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\bin\Debug\MyFirstWindowsForm.exe
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\bin\Debug\MyFirstWindowsForm.pdb
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.csprojAssemblyReference.cache
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.Form1.resources
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.Properties.Resources.resources
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.csproj.GenerateResource.cache
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.exe
+C:\Users\Jonah\source\repos\MyFirstWindowsForm\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.pdb
